@@ -2,7 +2,7 @@
 
 
 **Risk Matrix Viz (Power BI Custom Visual)**  
-Effective Date: 20 October 2025  
+Effective Date: 14 October 2026  
 Owner: Tyron Stewart  
 
 &nbsp;
@@ -23,8 +23,6 @@ The report pages of the sample file provide steps on configuration (along with s
 **Paid Consulting**  
   ​
 The Risk Matrix Viz is offered free of charge, and "as is", without warranties or guarantees.   
-This visual was originally developed independently and is now maintained while I work with **Fujifilm Microchannel**, a leading provider of Business Intelligence solutions.  
 For integration help, assistance or training on this visual or related services, please see the contact details below and mention Risk Matrix Viz:
 
-📧 Email: info@microchannel.com.au  
-🌐 Website: https://www.microchannel.com.au/products/microsoft-power-bi/
+📧 Email: contact@dataloom.com.au  
